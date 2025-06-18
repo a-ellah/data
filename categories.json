@@ -1,7 +1,7 @@
 [
-  { "code": "series", "name": "Series" },
-  { "code": "sports", "name": "Sports" },
-  { "code": "movies", "name": "Movies" },
-  { "code": "music", "name": "Music" },
-  { "code": "news", "name": "News" }
+  { "code": "100", "name": "Series" },
+  { "code": "200", "name": "Sports" },
+  { "code": "300", "name": "Movies" },
+  { "code": "400", "name": "Music" },
+  { "code": "500", "name": "News" }
 ]
