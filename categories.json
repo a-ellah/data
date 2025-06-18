@@ -1,7 +1,7 @@
 [
-  { "id": "series", "name": "Series" },
-  { "id": "sports", "name": "Sports" },
-  { "id": "movies", "name": "Movies" },
-  { "id": "music", "name": "Music" },
-  { "id": "news", "name": "News" }
+  { "code": "series", "name": "Series" },
+  { "code": "sports", "name": "Sports" },
+  { "code": "movies", "name": "Movies" },
+  { "code": "music", "name": "Music" },
+  { "code": "news", "name": "News" }
 ]
