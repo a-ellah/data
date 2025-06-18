@@ -1,0 +1,130 @@
+[
+  {
+    "id": "002RadioTV.do",
+    "name": "002 Radio TV",
+    "country": "DO",
+    "categories": ["general"],
+    "logo": "https://i.imgur.com/7oNe8xj.png"
+  },
+  {
+    "id": "01TV.fr",
+    "name": "01 TV",
+    "country": "FR",
+    "categories": ["education", "news"],
+    "logo": "https://i.imgur.com/RMucFq8.png"
+  },
+  {
+    "id": "0TV.dk",
+    "name": "0-TV",
+    "country": "DK",
+    "categories": ["general"],
+    "logo": "https://i.imgur.com/aR5q6mA.png"
+  },
+  {
+    "id": "10.au",
+    "name": "10",
+    "country": "AU",
+    "categories": ["news"],
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/Network_10_2018.svg/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "id": "1000xHoraTV.uy",
+    "name": "1000xHora TV",
+    "country": "UY",
+    "categories": ["auto"],
+    "logo": "https://i.imgur.com/wP3bbYr.png"
+  },
+  {
+    "id": "1001Noites.br",
+    "name": "1001 Noites",
+    "country": "BR",
+    "categories": ["shop"],
+    "logo": "https://i.imgur.com/dWA9y2J.png"
+  },
+  {
+    "id": "100AutoMotoTV.bg",
+    "name": "100% Auto Moto TV",
+    "country": "BG",
+    "categories": ["auto"],
+    "logo": "https://i.imgur.com/SZtJfOG.png"
+  },
+  {
+    "id": "100NEWS.ua",
+    "name": "100% NEWS",
+    "country": "UA",
+    "categories": ["news", "business"],
+    "logo": "https://i.imgur.com/bSXKdK5.png"
+  },
+  {
+    "id": "100NLTV.nl",
+    "name": "100% NL TV",
+    "owners": ["Radiocorp B.V."],
+    "country": "NL",
+    "categories": ["music"],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/100p-nl-tv-logo.png/512px-100p-nl-tv-logo.png"
+  },
+  {
+    "id": "101tvAntequera.es",
+    "name": "101tv Antequera",
+    "country": "ES",
+    "categories": ["general"],
+    "logo": "https://i.imgur.com/GzI3RC4.png"
+  },
+  {
+    "id": "101tvAxarquia.es",
+    "name": "101tv Axarquia",
+    "country": "ES",
+    "categories": ["general"],
+    "logo": "https://i.imgur.com/GzI3RC4.png"
+  },
+  {
+    "id": "101tvCadiz.es",
+    "name": "101tv Cadiz",
+    "country": "ES",
+    "categories": ["general"],
+    "logo": "https://i.imgur.com/GzI3RC4.png"
+  },
+  {
+    "id": "101tvMalaga.es",
+    "name": "101tv Malaga",
+    "country": "ES",
+    "categories": ["news"],
+    "logo": "https://yt3.googleusercontent.com/IIUzjqsChpzsjIafaLfwhZltNxslCol_0xoGEgNvquhPtyeQW03tDUN7yiTiiaININ2UUjmzXO4=s512-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "id": "101tvRonda.es",
+    "name": "101tv Ronda",
+    "country": "ES",
+    "categories": ["general"],
+    "logo": "https://i.imgur.com/GzI3RC4.png"
+  },
+  {
+    "id": "101tvSevilla.es",
+    "name": "101tv Sevilla",
+    "country": "ES",
+    "categories": ["general"],
+    "logo": "https://i.imgur.com/GzI3RC4.png"
+  },
+  {
+    "id": "10Bold.au",
+    "name": "10 Bold",
+    "owners": ["Ten Network Holdings Ltd"],
+    "country": "AU",
+    "categories": ["lifestyle", "relax"],
+    "logo": "https://i.imgur.com/2xglh33.png"
+  },
+  {
+    "id": "10Channel.gr",
+    "name": "10 Channel",
+    "country": "GR",
+    "categories": ["entertainment"],
+    "logo": "https://i.ibb.co/0XMM4gn/download-7.png"
+  },
+  {
+    "id": "10emeRueTV.cd",
+    "name": "10'eme Rue TV",
+    "country": "CD",
+    "categories": ["news"],
+    "logo": "https://i.imgur.com/2bm7SgL.png"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  { "name": "Algeria", "code": "DZ", "languages": ["ara"], "flag": "🇩🇿" },
+  { "name": "Qatar", "code": "QA", "languages": ["ara"], "flag": "🇶🇦" },
+  { "name": "Saudi Arabia", "code": "SA", "languages": ["ara"], "flag": "🇸🇦" },
+  { "name": "United States", "code": "US", "languages": ["eng"], "flag": "🇺🇸" },
+  { "name": "France", "code": "FR", "languages": ["fra"], "flag": "🇫🇷" },
+  { "name": "Spain", "code": "ES", "languages": ["spa"], "flag": "🇪🇸" },
+  { "name": "Russia", "code": "RU", "languages": ["rus"], "flag": "🇷🇺" },
+  { "name": "Turkey", "code": "TR", "languages": ["tur"], "flag": "🇹🇷" }
+]

@@ -1,0 +1,7 @@
+[
+  { "id": "series", "name": "Series" },
+  { "id": "sports", "name": "Sports" },
+  { "id": "movies", "name": "Movies" },
+  { "id": "music", "name": "Music" },
+  { "id": "news", "name": "News" }
+]
